@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://solide-project.github.io/doc/blog</id>
+    <title>Solide Blog</title>
+    <updated>2024-02-21T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://solide-project.github.io/doc/blog"/>
+    <subtitle>Solide Blog</subtitle>
+    <icon>https://solide-project.github.io/doc/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://solide-project.github.io/doc/blog/welcome</id>
+        <link href="https://solide-project.github.io/doc/blog/welcome"/>
+        <updated>2024-02-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Solide]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to Solide</p>]]></content>
+        <author>
+            <name>A</name>
+            <uri>https://github.com/solide-project</uri>
+        </author>
+        <author>
+            <name>P</name>
+            <uri>https://github.com/solide-project</uri>
+        </author>
+        <category label="open-source" term="open-source"/>
+        <category label="smart-contract" term="smart-contract"/>
+        <category label="development-tool" term="development-tool"/>
+    </entry>
+</feed>
