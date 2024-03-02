@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksolide_docs=self.webpackChunksolide_docs||[]).push([[470],{4829:o=>{o.exports=JSON.parse('[{"label":"open-source","permalink":"/doc/blog/tags/open-source","count":1},{"label":"smart-contract","permalink":"/doc/blog/tags/smart-contract","count":1},{"label":"development-tool","permalink":"/doc/blog/tags/development-tool","count":1}]')}}]);
