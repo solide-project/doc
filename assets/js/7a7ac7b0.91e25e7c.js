@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksolide_docs=self.webpackChunksolide_docs||[]).push([[9071],{8820:s=>{s.exports=JSON.parse('{"label":"account-abstraction","permalink":"/blog/tags/account-abstraction","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
