@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksolide_docs=self.webpackChunksolide_docs||[]).push([[7456],{9265:s=>{s.exports=JSON.parse('{"label":"erc4337","permalink":"/blog/tags/erc-4337","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
