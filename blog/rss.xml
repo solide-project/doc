@@ -4,10 +4,19 @@
         <title>Solide Blog</title>
         <link>https://docs.solide0x.tech/blog</link>
         <description>Solide Blog</description>
-        <lastBuildDate>Wed, 03 Apr 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jun 2024 05:48:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[ERC4337 - Paymaster]]></title>
+            <link>https://docs.solide0x.tech/blog/ethereum/erc4337/paymaster</link>
+            <guid>https://docs.solide0x.tech/blog/ethereum/erc4337/paymaster</guid>
+            <pubDate>Sun, 23 Jun 2024 05:48:24 GMT</pubDate>
+            <category>open-source</category>
+            <category>smart-contract</category>
+            <category>development-tool</category>
+        </item>
         <item>
             <title><![CDATA[Exploring CREATE3 - Simplifying Smart Contract Deployment on Ethereum]]></title>
             <link>https://docs.solide0x.tech/blog/solidity/create3</link>
@@ -60,15 +69,6 @@
 <iframe src="https://solide0x.tech/?url=https://github.com/solide-project/solide-guides/blob/master/src/solide/Create/Ownerable.sol" height="400" width="300" style="border-radius:8px;width:100%;overflow:hidden"></iframe>
 <p>After deploying, we can access the <code>Ownerable.sol</code> (with <a href="https://solide0x.tech/?url=https://github.com/solide-project/solide-guides/blob/master/src/solide/Create/Ownerable.sol" target="_blank" rel="noopener noreferrer">Solide IDE</a>) contract through the provided URL to interact with its features, such as the <code>getOwner</code> function, which should identify the deploying wallet as the owner. To achieve consistent contract addresses across different chains, repeat this deployment process on an alternative blockchain, such as the Mumbai testnet, employing the identical salt. This method showcases CREATE3's ability to facilitate uniform contract addresses across various chains, underscoring its utility for cross-chain contract deployment. Should there be a need to modify the contract address, altering the salt value or ensuring the nonce differs across networks can accomplish this. Furthermore, if deploying a distinct contract while desiring the same address, leveraging the <code>deploy()</code> function with the original salt allows for this flexibility.</p>
 <p>In essence, CREATE3 empowers developers with enhanced control over the generation of smart contract addresses on Ethereum, presenting new opportunities for the development of decentralized applications with increased flexibility and uniformity across diverse networks. However, it's important to acknowledge that deploying contracts via CREATE3 may incur higher costs compared to the <code>create</code> and <code>create2</code> methods.</p>]]></content:encoded>
-            <category>open-source</category>
-            <category>smart-contract</category>
-            <category>development-tool</category>
-        </item>
-        <item>
-            <title><![CDATA[ERC4337 - Paymaster]]></title>
-            <link>https://docs.solide0x.tech/blog/ethereum/erc4337/paymaster</link>
-            <guid>https://docs.solide0x.tech/blog/ethereum/erc4337/paymaster</guid>
-            <pubDate>Sat, 02 Mar 2024 08:47:20 GMT</pubDate>
             <category>open-source</category>
             <category>smart-contract</category>
             <category>development-tool</category>
